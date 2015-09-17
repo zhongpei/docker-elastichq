@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t geertvb/elastichq .
+docker build -t zhongpei/elastichq .
